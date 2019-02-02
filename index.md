@@ -1,9 +1,5 @@
 # Welcome to my photo album
 
-You can use the [editor on GitHub](https://github.com/dancollinsjr/Lunch-academy/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
 ### Millenium Bridge, St. Pauls
 [Link](http://dancollinsjr.tumblr.com/post/50424349821/millenium-bridge-tate-modern-st-pauls) and ![Image](src)
 ### Tate Modern, Bankside
