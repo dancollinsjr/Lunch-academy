@@ -24,6 +24,10 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](http://dancollinsjr.tumblr.com/post/50424349821/millenium-bridge-tate-modern-st-pauls) and ![Image](src)
+[Link](https://www.instagram.com/p/BNTtAtYj8rD5PQY1KIExHxe6xpGzOj6fhP2MqM0/) and ![Image](src)
+[Link]((https://www.instagram.com/p/BNkFFIUD7gtSHOpBOVxkjmSVeikYToRnKriovw0/) and ![Image](src)
+
+
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
