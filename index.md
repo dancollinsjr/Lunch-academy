@@ -4,9 +4,9 @@ You can use the [editor on GitHub](https://github.com/dancollinsjr/Lunch-academy
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-# Millenium Bridge, St. Pauls
+### Millenium Bridge, St. Pauls
 [Link](http://dancollinsjr.tumblr.com/post/50424349821/millenium-bridge-tate-modern-st-pauls) and ![Image](src)
-## Tate Modern, Bankside
+### Tate Modern, Bankside
 [Link](https://www.instagram.com/p/BNTtAtYj8rD5PQY1KIExHxe6xpGzOj6fhP2MqM0/) and ![Image](src)
 ### Velodrome, Olympic Park
 [Link]((https://www.instagram.com/p/BNkFFIUD7gtSHOpBOVxkjmSVeikYToRnKriovw0/) and ![Image](src)
