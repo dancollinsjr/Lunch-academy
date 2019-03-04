@@ -13,4 +13,4 @@
 
 ### JRE Elon Musk
 
-<iframe width="1180" height="380" src="https://www.youtube.com/embed/ycPr5-27vSI?t=7814" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ycPr5-27vSI?t=7814" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
