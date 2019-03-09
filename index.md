@@ -27,4 +27,4 @@
 [Victoria Street](https://www.instagram.com/p/BPhZ4gfjS-CMbyM9Vx-iJ31gibGWFkaGEqobQA0/) ![Image](https://instagram.flhr2-1.fna.fbcdn.net/vp/aef41ccbed3d4c800a1d790c5cafa8bd/5D1C6019/t51.2885-15/e35/16110805_395423834125456_5261064513574141952_n.jpg?_nc_ht=instagram.flhr2-1.fna.fbcdn.net)
 
 ### JRE Elon Musk
-<iframe width="740" height="315" src="https://www.youtube.com/embed/ycPr5-27vSI?t=7814" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="840" height="315" src="https://www.youtube.com/embed/ycPr5-27vSI?t=7814" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
