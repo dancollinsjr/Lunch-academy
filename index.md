@@ -20,10 +20,8 @@
 ### Park Life pt.III
 [Cassiobury Park, Watford](https://www.instagram.com/p/BTzgP1uBIVYyfjzbF_6-BWGFk1zup1ggGj5h-M0/) ![Image](https://instagram.flhr2-1.fna.fbcdn.net/vp/f50c396c6f4bbc0713f22946547da371/5D101105/t51.2885-15/e35/18300148_1129601497172332_1706422074710425600_n.jpg?_nc_ht=instagram.flhr2-1.fna.fbcdn.net)
 
-
 ### West London
-[Union Canal, Kensal Green](https://www.instagram.com/p/BSWlylaBtA19hg8r_3QsHZWLeiUh8jEFZ1KUL80/) ![Image](https://instagram.com.flhr2-1.fna.fbcdn.net/vp/a1bfacd20bd3c2c375ea7cefb9296135/5D0F8A5C/t51.2885-15/e35/17662107_1864267763848177_498593901465042944_n.jpg?_nc_ht=instagram.flhr2-1.fna.fbcdn.net)
-
+[Union Canal, Kensal Green]
 
 ### Victoria
 [Victoria Street](https://www.instagram.com/p/BPhZ4gfjS-CMbyM9Vx-iJ31gibGWFkaGEqobQA0/) ![Image](https://instagram.flhr2-1.fna.fbcdn.net/vp/aef41ccbed3d4c800a1d790c5cafa8bd/5D1C6019/t51.2885-15/e35/16110805_395423834125456_5261064513574141952_n.jpg?_nc_ht=instagram.flhr2-1.fna.fbcdn.net)
